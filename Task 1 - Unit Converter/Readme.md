@@ -1,6 +1,6 @@
 **UNIT CONVERTER**
 
-**Description:** This is a user friendly offline unit conversion tool for the browser. Added mailny three unites Length , Area and Temperature, so every effort has been made to keep this as simple, fast, and portable as possible.
+**Description:** This is a user-friendly offline unit conversion tool for the browser. Added mainly three units of Length, Area, and Temperature, so every effort has been made to keep this as simple, fast, and portable as possible.
 
 **IDE:** Visual Studio Code, Browser
 
